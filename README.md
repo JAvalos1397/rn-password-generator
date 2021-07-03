@@ -15,5 +15,5 @@ After selecting okay or cancel to these question you will a custom password depe
 <br>
 Enjoy and stay cyber safe!
 <br>
-https://pepsi1397.github.io/rn_password_generator/
+https://pepsi1397.github.io/rn-password-generator/
 ![demo_site](./assets/03-javascript-homework-demo.png)
